@@ -1,0 +1,23 @@
+name: flight_search
+description: A new Flutter project.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_spinkit: "^4.1.2"
+  material_segmented_control: ^2.1.0
+  intl:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/logo.png
+    - images/
+  fonts:
+    - family: NothingYouCouldDo
+      fonts:
+        - asset: fonts/NothingYouCouldDo.ttf
